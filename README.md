@@ -1,10 +1,10 @@
-# Name of project
+# All About Trees
 
-> A longer description
+> The website about trees and some scientific information about them.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +22,7 @@
 
 ## General info
 
-> A short description
+> Our site is the best helper to find information about trees.
 
 ## Screenshots
 
@@ -30,11 +30,9 @@
 
 ## Technologies
 
-- Node 14.16.0
+- HTML
+- CSS
 - VSC code
-- JavaScript
-- ...
-- ...
 
 ## Setup
 
