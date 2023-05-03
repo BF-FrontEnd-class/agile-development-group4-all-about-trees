@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
@@ -40,35 +40,43 @@
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+`<header class="centered-items"> <img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" /> <h1>All About Trees</h1> <img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" /> </header>`
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- title
+- navigation bar
+- main content
+- links
+- images
 
 To-do list:
 
--
--
+- logo
+- footer
+- contact information
 
 ## Status
 
-Project is: _in progress_
+Project is: _completed_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by team 4 HYF
 
 ## Contact
 
-By [Name]
+[Chris](https://github.com/cristobal-lopez)
+
+[Malik](https://github.com/Abdul-MalikSardalov)
+
+[Maria](https://github.com/Mariya-go)
+
+[Rekha](https://github.com/Rekhasriraman)
+
+[Khalid](https://github.com/khalidkhan1212)
 
 ## Instructions for use
 
