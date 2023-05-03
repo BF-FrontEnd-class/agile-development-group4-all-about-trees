@@ -30,3 +30,13 @@ body {
 .interesting-things {
   list-style-type: square;
 }
+
+/* images */
+bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
