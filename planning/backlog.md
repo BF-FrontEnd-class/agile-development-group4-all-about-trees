@@ -2,16 +2,18 @@
 
 ## Must-Haves
 
-- [ ] As an user I want to see the title with name of web-site
+
+- [ ] As a user I want to see title with the name of web-site
   - There's a title of website at the top of the page.
-- [ ] As an user I want to see some navigation bar
-  - There's a navigation bars below title.
-- [ ] As an user I want to see information that explains to me for this site.
-  - There's a short text explaining what our site is for.
-- [ ] As an user I want to see links to more detailed information.
-  - There's Links to more detailed information signed with a short description.
-- [ ] As an user I want to see I want to see some picture.
-  - There's two pictures of a tree at the top of the page.
+- [ ] As a user I want to see some navigation bars
+  - There are a navigation bars below title.
+- [ ] As a user I want to see information which explains this site.
+  - There's a short text explanation what our site is for.
+- [ ] As a user I want to see the links to more detailed information.
+  - There's a links to more detailed information signed with a short
+    description.
+- [ ] As a user I want to see some pictures.
+  - There are two pictures of a tree at the top of the page.
 
 ## Should-Haves
 
@@ -22,4 +24,5 @@
 
 ## Could-Haves
 
-- [ ] Сould add a more attractive page design
+- [ ] Could add more attractive page design
+
