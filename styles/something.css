@@ -25,3 +25,8 @@ body {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+/* links */
+.interesting-things {
+  list-style-type: square;
+}
