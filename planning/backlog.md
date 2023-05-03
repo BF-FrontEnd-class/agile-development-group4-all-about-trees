@@ -7,24 +7,24 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see title with the name of web-site
+  - There's a title of website at the top of the page.
+- [ ] As a user I want to see some navigation bars
+  - There are a navigation bars below title.
+- [ ] As a user I want to see information which explains this site.
+  - There's a short text explanation what our site is for.
+- [ ] As a user I want to see the links to more detailed information.
+  - There's a links to more detailed information signed with a short
+    description.
+- [ ] As a user I want to see some pictures.
+  - There are two pictures of a tree at the top of the page.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user i want to see links with a contact information.
+- At the bottom of the page are links that lead to the personal page of the site
+  owner.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] Could add more attractive page design
