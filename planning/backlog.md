@@ -1,11 +1,7 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
+
 
 - [ ] As a user I want to see title with the name of web-site
   - There's a title of website at the top of the page.
@@ -21,10 +17,12 @@ create your own!
 
 ## Should-Haves
 
-- [ ] As a user i want to see links with a contact information.
+- [ ] As an user i want contact details in case i need to contact the owner of
+      the site
 - At the bottom of the page are links that lead to the personal page of the site
   owner.
 
 ## Could-Haves
 
 - [ ] Could add more attractive page design
+
